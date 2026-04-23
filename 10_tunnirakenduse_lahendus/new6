@@ -1,0 +1,5 @@
+Koosta või otsi eestpoolt soojendatava veekoguse klass.
+Arvesta, et kann mahutab kuni kaks liitrit. Täis kann jahtub 100 kraadi pealt 20-kraadise välistemperatuuri juures 100 sekundi jooksul ühe kraadi. Arvuta, mitu džauli energiat iga erinevuskraadi kohta 100 sekundi jooksul üle kandub.
+
+2l kann 100c -> 20c  100sek 1kraad
+1l kann 100c -> 20c 100sek 2kraadi
